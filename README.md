@@ -1,6 +1,8 @@
 # MakeFun Ghost (BOO) — make.fun bounty `makefun-coin-promo-01`
 
 [![make.fun · makefun-coin-promo-01](https://make.fun/badge/makefun-coin-promo-01.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+[![rank](https://make.fun/badge/makefun-coin-promo-01/oraybora-source/makefun-coin-promo-01-v2/rank.svg)](https://make.fun/bounty/makefun-coin-promo-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+[![reward](https://make.fun/badge/makefun-coin-promo-01/oraybora-source/makefun-coin-promo-01-v2/reward.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
 
 Launch a real coin on pump.fun that sells make.fun, made and launched by an
 AI agent alone. **The coin itself is the entry**: an AI judge sees each coin
